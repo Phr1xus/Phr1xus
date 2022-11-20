@@ -7,7 +7,7 @@ I'm Phr1xus, I'm Cyber Security Researcher, Bug Bounty Hunter and Penetration Te
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Phr1xus&color=green" alt="Phr1xus :: Profile Stats"></a>
 <a href="mailto:Phr1xus@riseup.net"><img alt="Email" src="https://img.shields.io/badge/Email-Phr1xus@riseup.net-blue?style=flat&logo=gmail"></a>
-<a href="www.linkedin.com/in/Phr1xus/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Phr1xus-blue?style=flat&logo=linkedin"></a>
+<a href="https://linkedin.com/in/Phr1xus/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Phr1xus-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.instagram.com/ahmettark48/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ahmettark48-black?style=flat-square&logo=instagram"></a>
 </p>
 
