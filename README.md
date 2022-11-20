@@ -12,7 +12,7 @@ I'm Phr1xus, I'm Cyber Security Researcher, Bug Bounty Hunter and Penetration Te
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="Html" width="40" height="40"/> </a> <a href="https://www.php.net/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/528/528261.png" alt="php" width="40" height="40"/> </a> <a href="https://www.adobe.com/tr/products/premiere.html" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5611/5611084.png" alt="Premiere" width="40" height="40"/> </a><a href="https://www.adobe.com/tr/products/aftereffects.html" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968428.png" alt="aftereffects" width="40" height="40"/> </a> <a href="https://www.adobe.com/tr/products/photoshop.html" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="Photoshop" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://www.python.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="Html" width="40" height="40"/> </a> <a href="https://www.php.net/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/528/528261.png" alt="php" width="40" height="40"/> </a> <a href="https://www.adobe.com/tr/products/premiere.html" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5611/5611084.png" alt="Premiere" width="40" height="40"/> </a><a href="https://www.adobe.com/tr/products/aftereffects.html" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968428.png" alt="aftereffects" width="40" height="40"/> </a> <a href="https://www.adobe.com/tr/products/photoshop.html" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="Photoshop" width="40" height="40"/> </a> </p>
 
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
@@ -22,7 +22,7 @@ I'm Phr1xus, I'm Cyber Security Researcher, Bug Bounty Hunter and Penetration Te
   
 </p>
 
-## Systems
+<h1 align="center">Systems</h3>
 
 <p align="center">
       <img src="https://img.shields.io/badge/-Kali%20Linux-181717?style=flat-square&logo=kali-linux" alt="kali" height="50px"/>
