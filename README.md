@@ -1,6 +1,6 @@
 <h1 align="center">Phr1xus</h3>
 
-I'm Phr1xus, I'm working on Cyber Security. I'm sharing my projects here. I'm also Bug Bounty Hunter and Penetration Tester. 
+I'm Phr1xus, I'm Cyber Security Researcher, Bug Bounty Hunter and Penetration Tester
 
 <h3 align="center">Connect with me:</h3>
 
@@ -17,12 +17,12 @@ I'm Phr1xus, I'm working on Cyber Security. I'm sharing my projects here. I'm al
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aticiadem&show_icons=true&theme=tokyonight" width="450" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aticiadem&layout=compact&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=Phr1xus&show_icons=true&theme=tokyonight" width="450" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phr1xus&layout=compact&theme=tokyonight" height="180">
   
 </p>
 
-## Os Systems
+## Systems
 
 <p align="center">
       <img src="https://img.shields.io/badge/-Kali%20Linux-181717?style=flat-square&logo=kali-linux" alt="kali" height="50px"/>
