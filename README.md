@@ -16,7 +16,6 @@ I'm Phr1xus, I'm working on Android application development. I am sharing my pro
       <img src="https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python" alt="python" height="50px"/>
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="github" height="50px"/>
       <img src="https://img.shields.io/badge/-Kali%20Linux-181717?style=flat-square&logo=kalilinux" alt="kali" height="50px"/>
-      
       <img src="https://img.shields.io/badge/-VSCode-181717?style=flat-square&logo=visualstudiocode" alt="vscode" height="50px"/>
       <img src="https://img.shields.io/badge/-Windows-181717?style=flat-square&logo=windows" alt="windows" height="50px"/>
 </p>
