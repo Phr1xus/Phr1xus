@@ -1,6 +1,7 @@
-**root@Phr1xus# whoami**
+## **root@Phr1xus# whoami**
 
-I'm Phr1xus, I'm working on Android application development. I am sharing my projects here. I usually use the Kotlin programming language for Android projects. I am also a writer in the [MobilerDev][0] community and as the mobile team captain, I provide support to people who work on Android application development whenever I can, in [FUTAG][1], a club of our school.
+I'm Phr1xus, I'm working on Cyber Security. I'm sharing my projects here. I'm also Bug Bounty Hunter and Penetration Tester. 
+
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
