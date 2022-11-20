@@ -1,4 +1,4 @@
-## <p style="text-align: center">Phr1xus</p>
+## <center> <p style="text-align: center">Phr1xus</p> </center>
 
 I'm Phr1xus, I'm working on Cyber Security. I'm sharing my projects here. I'm also Bug Bounty Hunter and Penetration Tester. 
 
