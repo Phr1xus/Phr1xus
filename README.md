@@ -17,8 +17,8 @@ I'm Phr1xus, I'm Cyber Security Researcher, Bug Bounty Hunter and Penetration Te
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phr1xus&show_icons=true&theme=tokyonight" width="450" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phr1xus&layout=compact&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=Phr1xus&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="450" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phr1xus&hide=c,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" height="180">
   
 </p>
 
