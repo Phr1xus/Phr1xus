@@ -1,21 +1,58 @@
-<h1 align="center">Phr1xus</h3>
+<pre align="center">
+  ___ _        _             
+ | _ \ |_  _ _/ |_ ___  _ ___
+ |  _/ ' \| '_| \ \ / || (_-<
+ |_| |_||_|_| |_/_\_\\_,_/__/
+                             
+</pre>
 
-I'm Phr1xus, I'm Cyber Security Researcher, Bug Bounty Hunter and Penetration Tester
+<div align="center">
+ <samp><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" height="30"> Hello There!</h1></samp>
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+ </div>
+<br>
 
-<h3 align="center">Connect with me:</h3>
+<div align="center">
+<samp>
+ CyberSecurity Researcher | 🔐 Security Engineer | 💻 Bug Hunter
+ </samp>
+ <br>
+ <samp>
+   <div>I'm not responsible for what you guys do!</div>
+ <b>I Hope You Enjoy My Tools</b>
+ <br>
+ <b>My Twitter : https://twitter.com/Phr1xus </b>
+ </samp>
+</div>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Phr1xus&color=green" alt="Phr1xus :: Profile Stats"></a>
-<a href="mailto:Phr1xus@riseup.net"><img alt="Email" src="https://img.shields.io/badge/Email-Phr1xus@riseup.net-blue?style=flat&logo=gmail"></a>
-</p>
+<div align="center">
+ <samp><h1> My Tech Stack </h1></samp>
+</div>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.python.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="Html" width="40" height="40"/> </a> <a href="https://www.php.net/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/528/528261.png" alt="php" width="40" height="40"/> </a> <a href="https://www.adobe.com/tr/products/premiere.html" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5611/5611084.png" alt="Premiere" width="40" height="40"/> </a><a href="https://www.adobe.com/tr/products/aftereffects.html" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968428.png" alt="aftereffects" width="40" height="40"/> </a> <a href="https://www.adobe.com/tr/products/photoshop.html" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="Photoshop" width="40" height="40"/> </a> </p>
+<div align="center">
+<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
+ <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
+ <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+ <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+ <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+ <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white">
+</div>
 
 
-<h1 align="center">Systems</h3>
+<div align="center">
+ <samp><h1>Phr1xus Github stats</h1></samp> 
+</div>
 
-<p align="center">
-      <img src="https://img.shields.io/badge/-Kali%20Linux-181717?style=flat-square&logo=kali-linux" alt="kali" height="50px"/>
-      <img src="https://img.shields.io/badge/-Windows%2011-181717?style=flat-square&logo=windows-11" alt="windows" height="50px"/>
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phr1xus&show_icons=true&theme=tokyonight&hide_border=true" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=phr1xus&show_icons=true&theme=tokyonight&hide_border=true" height="150">
+</div>
